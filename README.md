@@ -58,6 +58,23 @@ I turn messy, real-world data into decisions — segmenting customers, quantifyi
 - Selected statistically comparable control stores and found **statistically significant sales increases** across all 3 trial stores
 - Synthesized findings using the **Pyramid Principle framework** into merchandising and pricing recommendations
 
+## 🎓 Education
+
+**Rutgers University – New Brunswick, NJ**
+B.A. Economics, Minor in Data Science | Sept 2023 – June 2027
+GPA: 3.44/4.0 · Dean's List: Spring 2025, Fall 2025, Spring 2026
+Relevant Coursework: Statistics I & II, Econometrics, Regression Methods, Inference in Data Science, Economic Forecasting & Big Data, Data Wrangling with R, Applied Statistical Learning
+
+**Rutgers Data Science Club** | Member | Sept 2024 – Jun 2026
+Trained in Python, R, SQL, and Tableau through hands-on workshops; attended seminars with industry and academic data science professionals
+
+## 📜 Certifications
+
+- **Google Data Analytics Professional Certificate** — Google, Aug 2025
+- **Data Analysis in Power BI** — DataCamp, Jun 2024
+- **Associate Data Analyst in SQL** — DataCamp, Jul 2023
+- **Data Analyst with Python** — DataCamp, Jun 2023
+
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.shion.dev/api?username=krishp2027&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
