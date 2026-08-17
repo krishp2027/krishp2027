@@ -4,10 +4,6 @@ Hi, I'm Krish Patel 👋<br><br>
 Data Analyst | Economics + Data Science @ Rutgers University<br><br>
 I turn messy, real-world data into decisions — segmenting customers, quantifying churn, and building dashboards that surface where the revenue and risk actually live. My work spans SQL-based extraction, Python-driven statistical analysis, and Power BI reporting.
 
-## 🎯 Core Competencies
-
-`Customer Segmentation & RFM Analysis` `Customer Churn Analysis` `A/B Testing & Hypothesis Testing` `SQL Querying & Data Extraction` `Data Cleaning & Wrangling` `Exploratory Data Analysis` `Statistical Inference & Regression Modeling` `Dashboard Design & Reporting` `Time Series Forecasting`
-
 ## 🌐 Socials
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/krishp2027)
