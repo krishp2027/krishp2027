@@ -36,45 +36,7 @@ I turn messy, real-world data into decisions — segmenting customers, quantifyi
 
 `readr` · `tidyr` · `dplyr` · `ggplot2`
 
-## 📌 Featured Projects
 
-### [Customer Segmentation & RFM Analysis](https://github.com/krishp2027/customer-segmentation-rfm-analysis)
-`SQL` `Python` `PostgreSQL` `Power BI`
-- Built an end-to-end analytics pipeline on **93,000+ customers** from the Olist Brazilian e-commerce dataset — PostgreSQL for extraction/quality audits, Python/Pandas for RFM (Recency, Frequency, Monetary) feature engineering
-- Segmented customers into 5 behavior-based groups; Champions (0.5% of base) spent **2.5x more per order** than average, while At Risk customers (27.4% of base) represented **$2.15M in revenue** at risk
-- Designed a **4-page interactive Power BI dashboard** surfacing revenue concentration and retention risk by segment
-- Framed a path to convert Potential Loyalists (46.9% of customers, **$8.24M in revenue**) into repeat buyers via targeted retention strategy
-
-### [Customer Churn & Retention Analytics](https://github.com/krishp2027/customer-churn-retention-analysis)
-`SQL` `Python` `PostgreSQL` `Power BI`
-- Built a churn analytics pipeline on **7,043 telecom customers**, resolving 120 invalid billing values during data-quality audits
-- Ran **Chi-square** and **Mann-Whitney U tests** (α = 0.05, Bonferroni-adjusted) across 10+ variables to statistically validate churn drivers, uncovering a **28.37% churn rate** driven by month-to-month contracts and early tenure
-- Engineered a rule-based high-risk segment (1,505 customers) with a **68.04% churn rate — 2.4x the baseline**
-- Designed a 4-page Power BI dashboard surfacing **$3.68M in historical revenue exposure** and flagging top geographic retention priorities
-
-### [Quantium Data Analytics Virtual Experience](https://github.com/krishp2027/Quantium-Virtual-Internship)
-`Python` `Jupyter Notebook`
-- Completed a 3-part simulated analytics engagement for a national grocery retailer's Category Manager — data prep, trial-store experimentation, and client-ready reporting
-- Cleaned and merged **264,836 transactions** from 72,637 loyalty customers, engineering pack-size and brand features for customer segmentation
-- Selected statistically comparable control stores and found **statistically significant sales increases** across all 3 trial stores
-- Synthesized findings using the **Pyramid Principle framework** into merchandising and pricing recommendations
-
-## 🎓 Education
-
-**Rutgers University – New Brunswick, NJ**
-B.A. Economics, Minor in Data Science | Sept 2023 – June 2027
-GPA: 3.44/4.0 · Dean's List: Spring 2025, Fall 2025, Spring 2026
-Relevant Coursework: Statistics I & II, Econometrics, Regression Methods, Inference in Data Science, Economic Forecasting & Big Data, Data Wrangling with R, Applied Statistical Learning
-
-**Rutgers Data Science Club** | Member | Sept 2024 – Jun 2026
-Trained in Python, R, SQL, and Tableau through hands-on workshops; attended seminars with industry and academic data science professionals
-
-## 📜 Certifications
-
-- **Google Data Analytics Professional Certificate** — Google, Aug 2025
-- **Data Analysis in Power BI** — DataCamp, Jun 2024
-- **Associate Data Analyst in SQL** — DataCamp, Jul 2023
-- **Data Analyst with Python** — DataCamp, Jun 2023
 
 ## 📊 GitHub Stats
 
