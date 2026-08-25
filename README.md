@@ -1,8 +1,7 @@
 # 💫 About Me
 
 Hi, I'm Krish Patel 👋<br><br>
-Data Analyst | Economics + Data Science @ Rutgers University<br><br>
-I turn messy, real-world data into decisions — segmenting customers, quantifying churn, and building dashboards that surface where the revenue and risk actually live. My work spans SQL-based extraction, Python-driven statistical analysis, and Power BI reporting.
+Economics student at Rutgers University with a minor in Data Science, focused on translating complex datasets into actionable business insights. Proficient in SQL, Python, Microsoft Power BI, and Microsoft Excel, with experience spanning data extraction, statistical analysis, and dashboard development.
 
 ## 🌐 Socials
 
