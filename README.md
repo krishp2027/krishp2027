@@ -1,7 +1,7 @@
 # 💫 About Me
 
 Hi, I'm Krish Patel 👋<br><br>
-Economics student at Rutgers University with a minor in Data Science, focused on translating complex datasets into actionable business insights. Proficient in SQL, Python, Microsoft Power BI, and Microsoft Excel, with experience spanning data extraction, statistical analysis, and dashboard development.
+I'm an Economics & Data Science student at Rutgers University, focused on turning complex datasets into clear, actionable business insights. I enjoy finding the story hiding in the data. I use SQL for data extraction, Python for analysis and feature engineering, Excel for exploration and analysis, and Power BI for building dashboards that make insights easy to understand and act on.
 
 ## 🌐 Socials
 
